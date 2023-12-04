@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe109bca94728d46bea7b13fe81002f, type: 3}
+  m_Name: GaleriaList
+  m_EditorClassIdentifier: 
+  galeriaList:
+  - name: Pesi
+    image: {fileID: 21300000, guid: 2730c5795a33a6448891325f8e783088, type: 3}
+    description: Es pesi
+  - name: Gogle
+    image: {fileID: 21300000, guid: d6c3305af5f329a4aa45c4fa3ce99725, type: 3}
+    description: Buscas cosas no se tio
+  - name: Bens
+    image: {fileID: 21300000, guid: d89a55368f0de464cb3b5af3ed0e820c, type: 3}
+    description: Coche supongo
+  - name: Mardonal
+    image: {fileID: 21300000, guid: 7af202926380c6d448695a59663d6cab, type: 3}
+    description: para pa pa pa
+  - name: Apol
+    image: {fileID: 21300000, guid: a7f441854bc2b7c4b9f827c80b2f8609, type: 3}
+    description: To mu caro
+  - name: Adadas
+    image: {fileID: 21300000, guid: c09e7276c95c2d7448861d77371a69a5, type: 3}
+    description: Lorem ipsum dolor sit amet consectetur adipiscing elit aenean quis
+      ullamcorper, sed hendrerit neque ornare auctor netus luctus cras arcu, diam
+      ac penatibus nibh eget tempor odio velit vehicula. Curae eu luctus velit massa
+      risus placerat himenaeos nulla natoque tellus, donec augue vitae cras facilisi
+      interdum a conubia sociosqu, quis nisi habitasse morbi nec purus leo id vulputate.
+      Curae augue urna nisi vulputate mollis turpis elementum justo nullam, imperdiet
+      luctus rutrum bibendum montes primis nisl ligula lacus feugiat, porta commodo
+      sociis hendrerit sem odio magna dictumst. Quam porta pharetra sed mauris netus
+      fringilla, cras nascetur maecenas facilisi enim bibendum purus, sem massa imperdiet
+      sapien blandit.  Porttitor placerat erat cras enim habitant ridiculus, parturient
+      convallis taciti sapien lacinia pharetra blandit, lectus laoreet pellentesque
+      quis tortor. Suscipit ut orci tortor platea dignissim facilisi maecenas ante
+      vivamus, ac hac fermentum interdum mus nisl sociis lacinia montes, sem pretium
+      ornare curae non ligula porta cubilia. Vulputate sociis magna nisi facilisi
+      congue scelerisque sem ridiculus, sollicitudin porta platea ornare eget mollis
+      dictumst lectus, accumsan eu morbi eros parturient velit pharetra.  Diam per
+      nascetur phasellus nullam massa praesent mauris fusce, quisque magna fermentum
+      parturient justo dis maecenas, commodo pretium dictum aenean condimentum neque
+      gravida. Quis luctus leo ornare auctor consequat sociosqu torquent ligula fames
+      commodo, neque molestie mollis himenaeos placerat tincidunt dapibus integer
+      porta, augue velit lectus rhoncus vitae taciti nam et ultricies. Quis sapien
+      phasellus vehicula sollicitudin justo vitae aliquam consequat volutpat, mollis
+      taciti rutrum mauris curabitur aenean ad sodales platea, suscipit nostra velit
+      eleifend rhoncus penatibus vulputate luctus. Vestibulum cras habitasse etiam
+      lacus tristique id, nisi suscipit euismod potenti turpis ridiculus et, viverra
+      eu dignissim dictumst duis.  Nam elementum id semper torquent porttitor dapibus
+      urna luctus himenaeos proin nibh per aliquet risus etiam, natoque vehicula
+      cum habitant iaculis eleifend mauris lobortis ullamcorper nascetur mollis vivamus
+      lacinia quam. Mus odio nisl et tellus torquent nostra himenaeos id duis varius
+      ultrices eros, nisi mauris mi massa mattis pharetra facilisi vel blandit luctus
+      platea, cubilia congue tortor nam dis hac tincidunt condimentum suscipit penatibus
+      natoque. Dis nibh nunc rhoncus libero, habitasse sociosqu nascetur, neque torquent
+      natoque. Tempor turpis ullamcorper orci porttitor taciti nam sollicitudin pulvinar
+      pellentesque aptent mus est fames egestas commodo, blandit libero condimentum
+      donec sem molestie auctor integer semper justo ridiculus ad porta parturient. 
+      Suspendisse nullam magnis inceptos tempor et commodo vitae cursus, egestas
+      eros blandit auctor purus facilisis fringilla morbi, fermentum aliquam ullamcorper
+      nisi fusce maecenas hac. Nibh enim est tellus non tempus dictumst sem fringilla,
+      sed ultrices natoque turpis nisl primis velit aenean, congue dapibus lectus
+      sociosqu quam quisque ut. Vitae commodo est vivamus malesuada inceptos accumsan
+      donec, felis mi curae tincidunt tempor elementum duis, molestie ad justo enim
+      himenaeos eleifend. Elementum praesent aptent pharetra turpis interdum porta
+      rutrum congue tempor tellus, mollis scelerisque velit nec non libero consequat
+      facilisis sociosqu, viverra ornare egestas fames faucibus suspendisse tristique
+      sed mus.  Sollicitudin nec curae vitae erat metus ac nullam, suspendisse velit
+      tincidunt maecenas vivamus aenean ultricies, elementum sapien molestie auctor
+      nam ullamcorper. Tempor arcu tortor duis orci ad est, venenatis a sodales fusce
+      fames justo, consequat facilisis sagittis metus odio. At aptent primis per
+      cursus metus rhoncus vestibulum dignissim tellus in rutrum congue, pharetra
+      bibendum feugiat lacinia nostra urna nascetur tincidunt et semper venenatis.
+      Ullamcorper dictum luctus netus potenti hac pretium, turpis convallis mattis
+      erat quisque ultricies primis, proin neque elementum quis egestas.  Felis dictum
+      mattis habitant hendrerit porttitor augue non euismod, rutrum curae torquent
+      etiam natoque eleifend convallis dui, lacinia semper sociis imperdiet erat
+      ad eros. Aliquet litora risus magna gravida venenatis tortor, non urna lacinia
+      cum dui. Venenatis pellentesque libero ad tristique risus dis tortor vivamus
+      condimentum mauris torquent suspendisse arcu, netus ullamcorper conubia dui
+      ligula molestie etiam aptent curae neque laoreet.  Enim semper torquent dictumst
+      pretium dapibus neque ridiculus eleifend posuere egestas faucibus inceptos
+      suscipit, urna dignissim himenaeos class quis pellentesque porta arcu senectus
+      est nam vestibulum, vitae praesent consequat ac placerat libero aliquet elementum
+      condimentum augue tempor imperdiet. Convallis facilisis scelerisque at gravida
+      diam vulputate venenatis cubilia felis etiam, vestibulum quisque inceptos consequat
+      turpis potenti mi ad egestas, ultricies pretium mollis pellentesque nullam
+      rhoncus purus bibendum orci. Auctor bibendum augue ac nam magnis est tempor
+      placerat maecenas, id elementum non habitant torquent quam suspendisse laoreet
+      fermentum ullamcorper, habitasse leo eu orci parturient felis sem dictumst.
+      Platea diam semper rutrum metus pulvinar ac maecenas, tempor nostra sociosqu
+      mattis posuere senectus dui egestas, felis et aenean aliquet libero vivamus.
+      Primis senectus dictumst ullamcorper proin vel inceptos purus, per ut egestas
+      pellentesque dictum placerat dui sociosqu, pharetra augue vitae convallis bibendum
+      habitant.  In vestibulum ad pretium lectus cras pulvinar cubilia mus montes
+      sed sagittis, rutrum porta ridiculus orci inceptos sem praesent nascetur neque
+      tincidunt mollis dis, eros class nisi vitae nisl vel diam quam scelerisque
+      faucibus. Per a dictumst nam purus habitant nunc ridiculus, torquent porta
+      curae natoque tristique tellus, mollis interdum etiam dictum turpis feugiat.
+      Torquent sem eleifend commodo luctus tincidunt vestibulum nisl, dictum habitasse
+      augue dapibus dignissim ligula rutrum, metus cursus class vivamus molestie
+      sociosqu. Phasellus himenaeos litora ad ultricies interdum sed auctor potenti
+      volutpat justo euismod, mattis eleifend fusce pharetra lacinia mus rutrum integer
+      lacus lobortis.  Placerat inceptos convallis justo volutpat duis condimentum
+      interdum gravida pulvinar facilisis arcu, aenean mattis dictumst id lacinia
+      quisque augue accumsan ultricies vel non, senectus fames dui ridiculus netus
+      sagittis nullam quis sed suspendisse. Nisl condimentum consequat maecenas ridiculus
+      bibendum cras hendrerit luctus, quis porta elementum viverra ante ultricies
+      habitasse, commodo cum nec dapibus erat litora etiam. Eros laoreet litora varius
+      montes tellus purus primis penatibus dignissim interdum ridiculus dui, nisi
+      vivamus orci quisque fusce eu potenti parturient cum bibendum.
